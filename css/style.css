@@ -1,0 +1,20 @@
+header {
+    border: double solid  #006;
+}
+
+a {
+    border: double solid  #ff0000;
+    height: 256px;
+}
+
+a {
+    border: double solid  #00ff00;
+}
+
+.c {
+    border: double solid  #0000ff;
+}
+
+.aboutme, .contact, .portfolio {
+    margin-top: 2em;
+}
